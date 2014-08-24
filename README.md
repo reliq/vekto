@@ -1,4 +1,4 @@
 vekto
 =====
 
-A simple chatngo bot.
+A simple chatango bot.
